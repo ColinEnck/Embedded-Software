@@ -1,5 +1,0 @@
-/home/colinenck/CS/repos/Embedded-Software/pico/2023-3-28_Clock/build/elf2uf2/CMakeFiles/elf2uf2.dir
-/home/colinenck/CS/repos/Embedded-Software/pico/2023-3-28_Clock/build/elf2uf2/CMakeFiles/edit_cache.dir
-/home/colinenck/CS/repos/Embedded-Software/pico/2023-3-28_Clock/build/elf2uf2/CMakeFiles/rebuild_cache.dir
-/home/colinenck/CS/repos/Embedded-Software/pico/2023-3-28_Clock/build/elf2uf2/boot_uf2_headers/CMakeFiles/edit_cache.dir
-/home/colinenck/CS/repos/Embedded-Software/pico/2023-3-28_Clock/build/elf2uf2/boot_uf2_headers/CMakeFiles/rebuild_cache.dir
